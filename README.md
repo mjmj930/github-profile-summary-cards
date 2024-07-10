@@ -6,11 +6,3 @@
 
 
 
-<p align="center">
-<img width="80%" src="https://raw.githubusercontent.com/mjmj930/mjmj930/master/profile-summary-card-output/github_dark/0-profile-details.svg">
-</p>
-
-<p align="center">
-<img width="40%" src="https://raw.githubusercontent.com/mjmj930/mjmj930/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-<img width="40%" src="https://raw.githubusercontent.com/mjmj930/mjmj930/master/profile-summary-card-output/github_dark/3-stats.svg">
-</p>
