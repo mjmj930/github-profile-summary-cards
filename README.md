@@ -15,4 +15,4 @@
 
 [More Info](https://github.com/mjmj930/github-profile-summary-cards)
 
-[fork from](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+Fork from [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
