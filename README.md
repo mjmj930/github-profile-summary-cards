@@ -1,9 +1,4 @@
-# mjmj github-profile-summary-cards
-
-```To create your profile README you need to name the repo as your username```
-
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
-
 
 
 [![](https://raw.githubusercontent.com/mjmj930/mjmj930/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -12,6 +7,3 @@
 
 
 
-[More Info](https://github.com/mjmj930/github-profile-summary-cards)
-
-Fork from [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
