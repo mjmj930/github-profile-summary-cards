@@ -2,7 +2,6 @@
 
 ```To create your profile README you need to name the repo as your username```
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 
